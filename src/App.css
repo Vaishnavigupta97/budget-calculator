@@ -1,0 +1,170 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.budget-calculator{
+  background-color: #919091;
+  padding-bottom: 5%;
+  padding-top: 1%;
+}
+.App{
+  width: 50%;
+  margin: auto;
+}
+.formButtons{
+  background-color: white;
+  padding: 2%;
+}
+.form-group label {
+  color: #625f62;
+  font-size: 18px;
+  font-weight: 400;
+  display: block;
+  padding: 5% 0%;
+
+}
+.App h1{
+  color: white;
+  font-weight: 500;
+  text-align: center;
+  padding: 3%;
+}
+.form-center{
+  display: flex;
+  justify-content: center;
+  gap: 15%;
+}
+.form-group input{
+  border: none;
+  border-bottom: 1.8px solid grey;
+  padding: 4% 0%;
+}
+form .btn{
+  background-color: #E63425;
+  border-radius: 5px;
+  padding: 1.5% 0%;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10%;
+  width: 21%;
+  margin: 3% auto;
+}
+.item{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35%;
+    border: 2px solid #E7E6E8;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+.amount{
+  background-color: #E63425;
+  padding: 1% 2%;
+  border-radius: 5px;
+
+}
+.expense{
+  font-size: 30px;
+  font-weight: 600;
+}
+.editClearParentBtn{
+  display: flex;
+  gap: 15%;
+}
+.edit-btn{
+  color: #57B153;
+  border: none;
+  background-color: white;
+  padding: 2%;
+  font-size: 20px;
+}
+.clear-btn{
+  color: #B40003;
+  border: none;
+  background-color: white;
+  padding: 2%;
+  font-size: 20px;
+}
+.btn{
+  background-color: #E63425;
+  border-radius: 5px;
+  padding: 1.5% 0%;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7%;
+  width: 30%;
+  margin: 3% auto;
+}
+.totalSpend{
+  color: white;
+  margin: 2% auto;
+  text-align: center;
+}
+.alert-danger {
+  background-color: #d50000;
+  text-align: center;
+  padding: 1.5%;
+  /* position: sticky;
+  top: 5%; */
+}
+.alert-succses {
+  background-color: #4caf50;
+  text-align: center;
+  padding: 1.5%;
+  /* position: sticky; */
+  /* top: 5%; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
